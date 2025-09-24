@@ -4,12 +4,6 @@ Created on Fri Sep 19 10:54:52 2025
 
 @author: roger
 """
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Sep 12 10:27:07 2025
-
-@author: AULA
-"""
 
 def Algoritmo_euclides(a,b):
     a
